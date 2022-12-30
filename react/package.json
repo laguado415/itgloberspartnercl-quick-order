@@ -1,6 +1,6 @@
 {
-  "name": "CHANGE_ME",
-  "version": "0.0.0",
+  "name": "quick-order",
+  "version": "0.0.1",
   "scripts": {
     "test": "vtex-test-tools test"
   },
@@ -20,6 +20,11 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "^3.9.6"
+    "itgloberspartnercl.quick-order": "https://jjllvelez--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.quick-order@0.0.1+build1672405201/public/@types/itgloberspartnercl.quick-order",
+    "typescript": "3.9.7",
+    "vtex.checkout-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-graphql@0.66.0/public/@types/vtex.checkout-graphql",
+    "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime",
+    "vtex.search-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.50.0/public/@types/vtex.search-graphql"
   }
 }
